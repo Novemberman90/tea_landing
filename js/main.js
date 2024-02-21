@@ -11,4 +11,4 @@ menuBtn.addEventListener('click', ()=>{
 menuClose.addEventListener('click', ()=>{
     menuList.classList.remove('menu__list--open');
     menuShadow.classList.remove('menu--open');
-})
+});
